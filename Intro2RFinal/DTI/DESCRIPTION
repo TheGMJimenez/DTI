@@ -1,0 +1,12 @@
+Package: DTI
+Type: Package
+Title: Home Affordability based on Debt to Income Ratio
+Version: 0.1.0
+Author: G.Jimenez
+Maintainer: G. Jimenez <gmjimenez@usf.edu>
+Description: Calculates Debt to Income Ratio in Order to Determine if you can afford a home with current ratio.Returns Debt to Income Ratio for user based on Total Monthly Debts~which includes living expenses and bills~ and total monthly income.
+    User can afford house only if  on debt to income ratio is less than 45%. As according to Quicken Loans (https://www.quickenloans.com/calculator-affordability), most loans require this ratio NOT exceed 45% in order to get approved for affording a home.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
